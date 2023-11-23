@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Comment = () => {
+const Eye = () => {
     return (
         <div>
-            <h1>Comment page</h1>
+            <h1>Eye page</h1>
         </div>
     );
 };
 
-export default Comment;
+export default Eye ;
